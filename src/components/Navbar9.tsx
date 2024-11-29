@@ -215,7 +215,7 @@ const SubMenu = ({
             initial="close"
             exit="close"
             transition={{ duration: 0.2 }}
-            className="bottom-auto left-0 top-full w-full min-w-full max-w-full overflow-hidden bg-background-primary lg:absolute lg:w-screen lg:border-b lg:border-border-primary lg:px-[5%] lg:[--height-close:auto]"
+            className="bottom-auto left-0 top-full w-full min-w-full max-w-full overflow-hidden bg-ma_transBlue lg:absolute lg:w-screen lg:border-b lg:border-border-primary lg:px-[5%] lg:[--height-close:auto]"
           >
             <div className="mx-auto flex size-full max-w-full items-center justify-between">
               <div className="flex w-full flex-col lg:flex-row">
